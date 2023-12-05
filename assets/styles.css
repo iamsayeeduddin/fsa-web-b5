@@ -7,25 +7,3 @@
   gap: 10px;
   /* justify-content: space-between; */
 }
-
-.box {
-  color: white;
-  width: 75px;
-  border: 1px solid black;
-  height: 75px;
-  background-color: red;
-}
-
-.box-1 {
-  flex-grow: 1;
-  /* align-self: flex-start; */
-}
-
-.box-2 {
-  flex-grow: 2;
-}
-
-.box-3 {
-  flex-grow: 1;
-  /* align-self: flex-end; */
-}
